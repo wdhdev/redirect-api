@@ -4,10 +4,12 @@ A Node.js API which accepts all GET requests and redirects them to a specified p
 
 ## Getting Started
 
-#### Requirements
+### Requirements
 
 - tsc
 - Node.js v12 or higher
+
+### Steps
 
 1. Rename `example.env` to `.env`.
 2. Update the `port` and `url` options in the `.env` file.
