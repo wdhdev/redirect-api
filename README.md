@@ -1,7 +1,7 @@
 # Redirect API
 A Node.js API which accepts all GET requests and redirects them to a specified page.
 
-![Languages](https://skillicons.dev/icons?i=nodejs,typescript)
+![Languages](https://skillicons.dev/icons?i=nodejs,ts)
 
 ## Getting Started
 
