@@ -1,16 +1,24 @@
 {
   "name": "redirect-api",
   "version": "1.0.0",
-  "description": "Redirect API",
+  "description": "A Node.js API which accepts all GET requests and redirects them to a specified page.",
+  "main": "dist/index.js",
   "scripts": {
     "start": "tsc && node ."
   },
-  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamDavidHarrison/redirect-api.git"
+  },
   "author": "William Harrison",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamDavidHarrison/redirect-api/issues"
+  },
+  "homepage": "https://github.com/WilliamDavidHarrison/redirect-api#readme",
   "dependencies": {
     "@types/node": "^18.11.18",
     "dotenv": "^16.0.3",
-    "express": "^4.18.1"
+    "express": "^4.18.2"
   }
 }
