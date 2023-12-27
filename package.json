@@ -6,16 +6,8 @@
   "scripts": {
     "start": "tsc && node ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WilliamDavidHarrison/redirect-api.git"
-  },
   "author": "William Harrison",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/WilliamDavidHarrison/redirect-api/issues"
-  },
-  "homepage": "https://github.com/WilliamDavidHarrison/redirect-api#readme",
   "dependencies": {
     "@types/node": "^18.11.18",
     "dotenv": "^16.0.3",
